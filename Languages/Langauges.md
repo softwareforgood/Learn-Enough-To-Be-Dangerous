@@ -13,4 +13,11 @@ When you have a question about a language, (e.g.: "what does `.reduce` do?") you
 PRO TIP: Languages evolve. Unlike English, when significant changes are made in a programming language, those changes are recorded in the documenttaion and changelog. Make sure the documentation you are working with matches the version of the langauge you are using.
 
 ## Testing
-Testing is a big deal in programming. A strong developer will be able to write a suite of automated tests for their code to (1) make sure it does what they think it's doing and (2) doesn't break while other changes are being made. You basically can't write production-ready code without tests.
+Testing is a big deal. A great developer will be able to write a suite of automated tests for their code to make sure (1) it does what they think it's doing and (2) it doesn't break while other changes are being made.
+Note!
+- Writing tests is often harder than making the code work in the browser. 
+- Especially when you're new to a testing framework, it often takes longer than writing the code for the intended behavior. The "when" and "how" of testing can become sort of philosophical. Here, try to stay practical:
+  - Test for expected behavior
+  - Test how common errors are handled
+  - If you're awesome, when you see a bug, write a test that would protect against that bug, then write the code to pass the test.
+- Don't test other people's code. Open source libraries are well tested. Figure out where the library ends nad your code begins.

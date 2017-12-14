@@ -1,21 +1,38 @@
-# Ruby on Rails
+# Learn Ruby on Rails
 
-It's a web development framework buitl in the Ruby programming language.
-
-Model - View - Controller
+It's a web development framework built in Ruby.
 
 
-## The Front End 
-[Learn about the Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
+
+## Key points
+- [Model - View - Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- Build full-stack web apps fast
+- Don't Repeat Yourself: "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system."
+- Convention Over Configuration: "Rails has opinions about the best way to do many things in a web application, and defaults to this set of conventions"
+
+
+## Environment
+Already got Ruby?
+```
+$ ruby -v
+ruby 2.3.1p112
+$ sqlite3 --version
+3.19.3 2017-06-27 ...
+$ rails --version
+$ gem install rails
+```
+
+### Exercise 1: Build Rails Blog on Official Starter Guide
+Find the tutorial on [Rails Official Site](http://guides.rubyonrails.org/getting_started.html)
+
+## The Back End
+- SQL (Structured Query Language is a standardized programming language used for managing relational databases and performing various operations on the data in them.
+- [Acrtive Record](http://guides.rubyonrails.org/active_record_basics.html)
+- Overview of Rails Console and other command line basics [here](http://guides.rubyonrails.org/command_line.html#rails-console)
+
+## The Front End
+Read the official docs to learn about [the Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 (read just enough to understand the general concept)
 
-
-## Exercises
-### Exercise 1: Rails Blog on Official Starter Guide
-[Find the tutorial here](http://guides.rubyonrails.org/getting_started.html)
-
-
-
-### Exercise 3: Rails Specific model tests
+## Taste of Testing: Rails Specific RSPEC tests for Rails models
 [Learn about model tests](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
-

@@ -9,14 +9,15 @@ A language "optimized for developer happiness"
 - Leading web development framework is called Rails
 
 ## Environment
-Install rbenv, ruby
+Install [rbenv](https://github.com/rbenv/rbenv#installation) and [Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions)
 
-## Learning Steps
+**RubyGems** is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries... [Wikipedia](https://en.wikipedia.org/wiki/RubyGems)
+
+## Background Information
 - Check out the official site [Ruby Official Site](https://www.ruby-lang.org/en/)
 - Familiarize yourself with [official documentation](http://ruby-doc.org/)
 
-## Learning Resources:
-### First Ruby Tutorials
+## Basic Ruby Tutorials
 1. [Learn about Classes, variables, etc.](http://ruby-doc.com/docs/ProgrammingRuby/)
 * [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a more general intro
 
@@ -24,13 +25,13 @@ Install rbenv, ruby
 * Repetition is helpful in learning a new language [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
 * [Ruby Monk](https://rubymonk.com/) is good for tutorials and games
 
-### Ruby Exercises
+## Ruby Exercises
 
 1. [Exercism.io exercises](http://exercism.io/languages/ruby/exercises)
   * If you are working in pairs, Work together to get it working on both of your computers.
   * Start with Hello World, make your way down the list of exercises (Hamming, Gigasecond, Rna Transcription, etc.) They get harder as you go down. Jump around as much as you want.
 
-### Basic RSPEC
+### More Basic RSPEC
 1. You already know the basics! That's what you were doing in the Basic Ruby Exercise! Go back, read through the tests that you were running.
 2. [Here's an RSPEC Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
   * Don’t worry about writing/typing anything until you reach “Setting Up Rspec”, then code along

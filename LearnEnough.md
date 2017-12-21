@@ -5,13 +5,5 @@ And have fun!
 
 # Stuff you need to learn (in order)
 1. [Git](Misc Dev/Git/Git.md)
-1. Language of your project
-⋅⋅1. [Ruby](Languages/Ruby/Ruby.md)
-⋅⋅1. [JavaScript](Languages/JavaScript/JavaScript.md)
-1. Framework for Your Project
-  * [(Ruby on) Rails](Frameworks/Rails/Rails.md)
-  * [Reactjs (technically not a framework)](Frameworks/Reactjs/Reactjs.md)
-1. Project Management
-  * Github etiquette
-  * Asana
-1. Client Services
+1. Language of your project ([Ruby](Languages/Ruby/Ruby.md), [JavaScript](Languages/JavaScript/JavaScript.md))
+1. Framework for Your Project ([(Ruby on) Rails](Frameworks/Rails/Rails.md), [Reactjs (technically not a framework)](Frameworks/Reactjs/Reactjs.md))

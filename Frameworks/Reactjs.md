@@ -13,4 +13,4 @@ Modular code rocks
 ## Environment
 - install node, npm (and yarn)
 - Install [create-react-app](https://github.com/facebookincubator/create-react-app#getting-started) for convenience
-  - This will allow us to skip over some details of learning Babel and other tools
+  - This will allow us to skip over some details of learning Babel and other tools that are used to make Reactjs work

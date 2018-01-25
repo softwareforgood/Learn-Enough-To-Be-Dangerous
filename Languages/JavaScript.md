@@ -30,8 +30,8 @@ Install node, npm, yarn, etc.
 
 ```javascript
 var add = function(a, b) {
-  return a + b
-}
+  return a + b;
+};
 ```
 
 ### ES2015

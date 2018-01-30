@@ -1,7 +1,10 @@
 # Editors
 Use whatever works for you.
 
-## Sublime Text, Atom, Visual Studio Code
+## Integrated Development Environments
+RubyMine, IntelliJ, Eclipse
+
+## Sublime Text, Atom, Visual Studio Code, Notebook++
 These are relatively more accessible editors. The differences between these usually don't matter to a new programmer. Just focus on coding more generally and you'll pick up cool tricks along the way.
 
 ## VI, VIM, Emacs, Nano

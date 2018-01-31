@@ -9,9 +9,18 @@ A language "optimized for developer happiness"
 - Leading web development framework is called Rails
 
 ## Environment
-Install [rbenv](https://github.com/rbenv/rbenv#installation) and [Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions)
+### Mac
+1. Install Homebrew [here](https://brew.sh/)
+2. Install [rbenv](https://github.com/rbenv/rbenv#installation) with `brew install rbenv`. See [here](https://github.com/rbenv/rbenv#homebrew-on-macos) for more details.
+3. Install the version of Ruby that you need with with rbenv with `rbenv install <version>`. See [here](https://github.com/rbenv/rbenv#installing-ruby-versions) for more details.
 
-**RubyGems** is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries... [Wikipedia](https://en.wikipedia.org/wiki/RubyGems)
+### PC
+1. Install Ruby using [Windows Ruby Install](https://rubyinstaller.org/)
+2. Install Ruby Development Kit
+3. `gem install bundler`
+3. `gem install rails`
+
+**RubyGems** is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries... [Source](https://en.wikipedia.org/wiki/RubyGems)
 
 ## Background Information
 - Check out the official site [Ruby Official Site](https://www.ruby-lang.org/en/)

@@ -6,33 +6,33 @@
 * What happens if I type ‘git branch -D make-it-happen’ into the command line?
 
 ## Git Workflow
-* `git checkout -b [branch-name]`
-* Make changes to a bunch of files
-* `git status` (double check what's changed before adding changes to stage)
-* `git add [changed files]`
-* `git status` (double check what's staged before committing)
-* `git commit` just this file with a helpful message about what was changed `-m 'message'`
+1. `git checkout -b [branch-name]`
+1. Make changes to a bunch of files
+1. `git status` (double check what's changed before adding changes to stage)
+1. `git add [changed files]`
+1. `git status` (double check what's staged before committing)
+1. `git commit` just this file with a helpful message about what was changed `-m 'message'`
 
 ## Pull Request Workflow
-* `git checkout master`
-* `git pull`
-* `git checkout -b branch-name`
-  * When naming your branches, follow SfG convention that the branch consists of ...
-    * fix/more-specific-branch-name
-    * chore/more-specific-branch-name
-    * bug/more-specific-branch-name
-* Make a bunch of changes to the code
-* `git add [files worth saving]`
-* `git commit -m 'a helpful message'`
-* `git checkout master && git pull` (in case anyone else merged changes in the meantime)
-* `git checkout branch-name`
-  * if new changes came down when you ran `git pull` on master
-  * `git merge master`
-    * resolve conflicts and then `commit` changes with conflicts resolved
-* `git push [--set-upstream origin branch-name]`
-* Go to GitHub, open a pull request, double check your code for errors, and ask others to review your PR
-* Resolve all comments from review
-* Once your changes are approved, merge them into master
+1. `git checkout master`
+1. `git pull`
+1. `git checkout -b branch-name`
+  1. When naming your branches, follow SfG convention that the branch consists of ...
+    1. fix/more-specific-branch-name
+    1. chore/more-specific-branch-name
+    1. bug/more-specific-branch-name
+1. Make a bunch of changes to the code
+1. `git add [files worth saving]`
+1. `git commit -m 'a helpful message'`
+1. `git checkout master && git pull` (in case anyone else merged changes in the meantime)
+1. `git checkout branch-name`
+  1. if new changes came down when you ran `git pull` on master
+  1. `git merge master`
+    1. resolve conflicts and then `commit` changes with conflicts resolved
+1. `git push [--set-upstream origin branch-name]`
+1. Go to GitHub, open a pull request, double check your code for errors, and ask others to review your PR
+1. Resolve all comments from review
+1. Once your changes are approved, merge them into master
 
 # Other Resources
 [About Resolving Merge Conclicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)

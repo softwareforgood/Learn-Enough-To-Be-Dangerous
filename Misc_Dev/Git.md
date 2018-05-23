@@ -7,14 +7,12 @@
 
 ## Exercise 1: PR workflow
 1. `git clone` this repo
-* `git checkout` a new branch
-* Make a change to a bunch of files
-* `git add` just this file
-* `git status`
+* `git checkout -b [branch-name]`
+* Make changes to a bunch of files
+* `git status` (double check what's changed before adding changes to stage)
 * `git add [changed files]`
-* `git status`
-* `git commit` just this file with a nonsensical `-m 'message'`
-* `git commit .` the rest of the files with a very serious `-m 'message'`
+* `git status` (double check what's staged before committing)
+* `git commit` just this file with a helpful message about what was changed `-m 'message'`
 
 # Other Resources
 [About Resolving Merge Conclicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)

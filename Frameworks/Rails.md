@@ -24,7 +24,7 @@ $ gem install rails
 
 ## The Back End
 - SQL (Structured Query Language is a standardized programming language used for managing relational databases and performing various operations on the data in them.
-- [Acrtive Record](http://guides.rubyonrails.org/active_record_basics.html)
+- [Acrtive Record](http://guides.rubyonrails.org/active_record_basics.html) makes SQL easier to use in a Rails app
 - Overview of Rails Console and other command line basics [here](http://guides.rubyonrails.org/command_line.html#rails-console)
 
 ## The Front End

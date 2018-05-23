@@ -28,11 +28,11 @@ A language "optimized for developer happiness"
 
 ## Basic Ruby Tutorials
 1. [Learn about Classes, variables, etc.](http://ruby-doc.com/docs/ProgrammingRuby/)
-* [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a more general intro
+1. [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a more general intro
 
 *If you're looking for more Practice:*
-* Repetition is helpful in learning a new language [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
-* [Ruby Monk](https://rubymonk.com/) is good for tutorials and games
+1. Repetition is helpful in learning a new language [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
+1. [Ruby Monk](https://rubymonk.com/) is good for tutorials and games
 
 ## Ruby Exercises
 
@@ -41,6 +41,4 @@ A language "optimized for developer happiness"
   * Start with Hello World, make your way down the list of exercises (Hamming, Gigasecond, Rna Transcription, etc.) They get harder as you go down. Jump around as much as you want.
 
 ### More Basic RSPEC
-1. You already know the basics! That's what you were doing in the Basic Ruby Exercise! Go back, read through the tests that you were running.
-2. [Here's an RSPEC Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec)
-  * Don’t worry about writing/typing anything until you reach “Setting Up Rspec”, then code along
+1. [Here's an RSPEC Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec) (Don’t write/type anything until you reach “Setting Up Rspec”, then code along)

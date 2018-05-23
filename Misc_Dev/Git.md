@@ -11,7 +11,7 @@
 * Make a change to a bunch of files
 * `git add` just this file
 * `git status`
-* `git add .`
+* `git add [changed files]`
 * `git status`
 * `git commit` just this file with a nonsensical `-m 'message'`
 * `git commit .` the rest of the files with a very serious `-m 'message'`

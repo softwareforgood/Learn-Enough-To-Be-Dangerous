@@ -18,6 +18,8 @@ $ sqlite3 --version
 $ rails --version
 $ gem install rails
 ```
+Install Resources:
+[Install Guide](https://gorails.com/setup/ubuntu/18.10)
 
 ## Exercise 1: Build Rails Blog on Official Starter Guide
 - Find the tutorial on [Rails Official Site](http://guides.rubyonrails.org/getting_started.html)

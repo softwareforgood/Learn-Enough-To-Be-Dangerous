@@ -5,7 +5,7 @@ A language "optimized for developer happiness"
 - Object oriented
 - Libraries are called [Gems](https://rubygems.org/)
 - Leading utility for organizing Gems is called [Bundler](http://bundler.io/)
-- Leading test framework is called [Rspec]
+- Leading test framework is called [Rspec](http://rspec.info/)
 - Leading web development framework is called Rails
 
 ## Environment

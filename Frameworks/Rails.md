@@ -9,7 +9,7 @@ It's a web development framework built in Ruby.
 - Convention Over Configuration: "Rails has opinions about the best way to do many things in a web application, and defaults to this set of conventions"
 
 ## Environment
-Already got Ruby?
+Already have Ruby install?
 ```
 $ ruby -v
 ruby 2.3.1p112
@@ -26,6 +26,8 @@ $ gem install rails
 - SQL (Structured Query Language is a standardized programming language used for managing relational databases and performing various operations on the data in them.
 - [Acrtive Record](http://guides.rubyonrails.org/active_record_basics.html) makes SQL easier to use in a Rails app
 - Overview of Rails Console and other command line basics [here](http://guides.rubyonrails.org/command_line.html#rails-console)
+- [Active Record Associations](http://guides.rubyonrails.org/association_basics.html)
+- [Check out the official guide](http://guides.rubyonrails.org/api_app.html) on API Only Applications
 
 ## The Front End
 - Read the official docs to learn about [the Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)

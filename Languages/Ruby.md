@@ -27,18 +27,22 @@ A language "optimized for developer happiness"
 - Familiarize yourself with [official documentation](http://ruby-doc.org/)
 
 ## Basic Ruby Tutorials
-1. [Learn about Classes, variables, etc.](http://ruby-doc.com/docs/ProgrammingRuby/)
-1. [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a more general intro
-
-*If you're looking for more Practice:*
-1. Repetition is helpful in learning a new language [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
-1. [Ruby Monk](https://rubymonk.com/) is good for tutorials and games
+*Go as deep into these tutorials as you find helpful*
+1. [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a general intro
+1. A deeper dive into [Learning about Classes, variables, etc.](http://ruby-doc.com/docs/ProgrammingRuby/)
+1. If you want more repition in your practice, [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
+1. [Ruby Monk](https://rubymonk.com/) has longer, and more challenging tutorials and games
 
 ## Ruby Exercises
 
 1. [Exercism.io exercises](http://exercism.io/languages/ruby/exercises)
-  * If you are working in pairs, Work together to get it working on both of your computers.
-  * Start with Hello World, make your way down the list of exercises (Hamming, Gigasecond, Rna Transcription, etc.) They get harder as you go down. Jump around as much as you want.
+  * If you are working in pairs, Work together to get a module working on both of your computers.
+  * Start with Hello World, make your way down the list of exercises (Hamming, Gigasecond, Rna Transcription, etc.) They get harder as you go down the list. Jump around as much as you want.
 
-### More Basic RSPEC
+### Basic RSPEC
+[Here](http://rspec.info/documentation/) are rspec's official docs
+1. Here's a [detailed introductory tutorial](https://medium.com/craft-academy/introduction-to-ruby-and-rspec-135da4051802)
 1. [Here's an RSPEC Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec) (Don’t write/type anything until you reach “Setting Up Rspec”, then code along)
+
+#### Some RSPEC related tooling
+1. Using Factory Bot makes testing easier. [Here](https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot) and [here](https://medium.com/craft-academy/introduction-to-ruby-and-rspec-135da4051802) are a couple of Factory Bot tutorials.

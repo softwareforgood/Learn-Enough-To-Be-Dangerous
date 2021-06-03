@@ -5,3 +5,5 @@
 ## Assessment Questions
 1. What is SQL?
 1. What is NoSQL?
+
+For this [repo](https://github.com/softwareforgood/activerecord_obstacle_course) to practice ActiveRecord

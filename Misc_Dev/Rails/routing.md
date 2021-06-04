@@ -41,3 +41,4 @@ Now that the second segment `:me` is dynamic, any value in that second segment w
 - A GET request to /show/the/me/songs would not match
 Note that the dynamic segment looks like a symbol, and may even be referred to as a symbol, but technically it is not a symbol.
 
+Read more on routing. [Here](https://guides.rubyonrails.org/routing.html)

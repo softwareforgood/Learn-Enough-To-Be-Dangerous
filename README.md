@@ -18,4 +18,5 @@ And have fun!
       - [Intro](Frameworks_and_Libraries/Rails.md) 
       - [MVC](Misc_Dev/Rails/mvc.md)
       - [Dynamic Routing](Misc_Dev/Rails/routing.md)
+      - [MVC in Action](Misc_Dev/Rails/mvc_in_action.md)
     - [Reactjs (technically not a framework)](Frameworks_and_Libraries/Reactjs.md)

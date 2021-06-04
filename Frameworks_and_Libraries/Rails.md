@@ -26,7 +26,7 @@ Install Resources:
 
 ## The Back End
 - SQL (Structured Query Language is a standardized programming language used for managing relational databases and performing various operations on the data in them.
-- [Acrtive Record](http://guides.rubyonrails.org/active_record_basics.html) makes SQL easier to use in a Rails app
+- [Active Record](http://guides.rubyonrails.org/active_record_basics.html) makes SQL easier to use in a Rails app
 - Overview of Rails Console and other command line basics [here](http://guides.rubyonrails.org/command_line.html#rails-console)
 - [Active Record Associations](http://guides.rubyonrails.org/association_basics.html)
 - [Check out the official guide](http://guides.rubyonrails.org/api_app.html) on API Only Applications

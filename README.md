@@ -3,19 +3,7 @@ The goal of each of these modules is to give you enough of a foundation for you 
 
 And have fun!
 
-# Stuff you need to learn
-- [Git](Misc_Dev/Git.md) 
-- [CLI](Misc_Dev/CommandLine.md)
-- Languages  
-    - [Ruby](Languages/Ruby.md)
-    - [Javascript](Languages/JavaScript.md)
-- How the Internet Works
-  - [Request/Response Cycle](Misc_Dev/Internet/req_res_cycle.md)
-  - [Request.Response Anatomy](Misc_Dev/Internet/req_res_anatomy.md)
-  - [Intro to DNS](Misc_Dev/Internet/dns.md)
-- Framework for Your Project  
-    - Ruby on Rails  
-      - [Intro](Frameworks_and_Libraries/Rails.md) 
-      - [MVC](Misc_Dev/Rails/mvc.md)
-      - [Dynamic Routing](Misc_Dev/Rails/routing.md)
-    - [Reactjs (technically not a framework)](Frameworks_and_Libraries/Reactjs.md)
+# Stuff you need to learn (in order)
+1. [Git](Misc_Dev/Git.md)
+1. Language of your project ([Ruby](Languages/Ruby.md), [JavaScript](Languages/JavaScript.md))
+1. Framework for Your Project ([(Ruby on) Rails](Frameworks_and_Libraries/Rails.md), [Reactjs (technically not a framework)](Frameworks/Reactjs.md))

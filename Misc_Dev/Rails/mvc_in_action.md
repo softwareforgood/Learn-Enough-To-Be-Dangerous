@@ -1,5 +1,11 @@
 ## MVC in Action
 
+### MVC in Action!
+
+For each of the code snippets below, take a few minutes to identify where we are breaking MVC logic conventions.
+
+A bit of context. Imagine that you are working in an app that tracks comedians and their Netflix Specials. Comedians have an age and they also have specials, in a one to many relationship. Specials have a run time which is their length.
+
 ### Models
 ```ruby
 class Comedian < ApplicationRecord
@@ -39,6 +45,3 @@ class ComediansController < ApplicationController
   end
 end
 ```
-#### Exercise
-For each of the code snippets above, take a few minutes to identify where we are breaking MVC logic conventions.
-A bit of context. Imagine that you are working in an app that tracks comedians and their Netflix Specials. Comedians have an age and they also have specials, in a one to many relationship. Specials have a run time which is their length.

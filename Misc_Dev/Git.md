@@ -1,5 +1,9 @@
 # Git
 
+## Basics
+* [Quick walkthrough](https://guides.github.com/activities/hello-world/)
+* [More in-depth interactive tutorial if you want to learn more!](https://learngitbranching.js.org/)
+
 ## Assessment
 * Why would I create a new branch?
 * What do I do if I commit some private credentials?

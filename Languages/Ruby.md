@@ -45,4 +45,4 @@ A language "optimized for developer happiness"
 1. [Here's an RSPEC Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec) (Don’t write/type anything until you reach “Setting Up Rspec”, then code along)
 
 #### Some RSPEC related tooling
-1. Using Factory Bot makes testing easier. [Here](https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot) and [here](https://medium.com/craft-academy/introduction-to-ruby-and-rspec-135da4051802) are a couple of Factory Bot tutorials.
+1. Using Factory Bot makes testing easier. [Here](https://medium.com/craft-academy/introduction-to-ruby-and-rspec-135da4051802) are a couple of Factory Bot tutorials.

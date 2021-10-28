@@ -35,7 +35,7 @@ A language "optimized for developer happiness"
 
 ## Ruby Exercises
 
-1. [Exercism.io exercises](https://exercism.org/tracks/ruby)
+1. [Exercism.io exercises](https://exercism.org/tracks/ruby/exercises)
   * If you are working in pairs, Work together to get a module working on both of your computers.
   * Start with Hello World, make your way down the list of exercises (Hamming, Gigasecond, Rna Transcription, etc.) They get harder as you go down the list. Jump around as much as you want.
 

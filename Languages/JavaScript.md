@@ -4,23 +4,22 @@ The internet couldn't function without it.
 ## Key points
 - Object oriented
 - Used in ever browser
-- Libraries are called [packages](https://rubygems.org/)
-- Leading utility for organizing pacakges is called [npm](https://www.npmjs.com)
-- A second leading utility for organizing pacakges is called [yarn](https://yarnpkg.com/en/)
-- Leading test frameworks include [Jasmine] [Mocha]
-- A leading view library is called [Reactjs]
-  - ReacJS has integrations for web and mobile development
-- Leading test frameworks include Mocha, Jasmine
+- Libraries are called [packages](https://docs.npmjs.com/about-packages-and-modules)
+- Leading utility for organizing packages is called [npm](https://www.npmjs.com)
+- A second leading utility for organizing packages is called [yarn](https://yarnpkg.com/en/)
+- A leading view library is called [ReactJS]
+- ReactJS has integrations for web and [mobile development](https://reactnative.dev/)
 - Leading web development framework is Angular
 
 ## Nodejs
-[Nodejs](https://nodejs.org/en/) is a JavaScript run-time environment (whatever the hell that means).
-Maybe think of it as a utility that you will use to build other things.
+[Nodejs](https://nodejs.org/en/) is a JavaScript run-time environment that allows you to execute JavaScript code outside of your browser. Think of it as a utility that you will use to build other things.
 
 It's a deep and complex subject that you might want to learn all about. Here, you just need to know how to use it. It will help you to download JavaScript libraries and stuff.
 
 ## Environment
-Install node, npm, yarn, etc.
+### Installing Node
+It's pretty useful to use a version manager when using Node because different projects may only run on certain versions of Node and you may need to switch depending on what you're working on. [nvm](https://github.com/nvm-sh/nvm#intro) is a useful tool available for Linux/OSX. You can find other tools that are available [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm).
+
 
 ## Preliminary steps
 - Familiarize yourself with [documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -52,6 +51,3 @@ const add = (a, b) => {
 ### jQuery
 - [Document Ready](https://learn.jquery.com/using-jquery-core/document-ready/)
 - Makes [DOM](https://www.w3schools.com/js/js_htmldom.asp) manipulation easier
-
-### Basic Testing
-1.

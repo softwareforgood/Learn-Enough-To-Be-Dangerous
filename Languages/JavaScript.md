@@ -7,7 +7,7 @@ The internet couldn't function without it.
 - Libraries are called [packages](https://docs.npmjs.com/about-packages-and-modules)
 - Leading utility for organizing packages is called [npm](https://www.npmjs.com)
 - A second leading utility for organizing packages is called [yarn](https://yarnpkg.com/en/)
-- A leading view library is called [ReactJS]
+- A leading view library is called [ReactJS](https://reactjs.org/)
 - ReactJS has integrations for web and [mobile development](https://reactnative.dev/)
 - Leading web development framework is Angular
 

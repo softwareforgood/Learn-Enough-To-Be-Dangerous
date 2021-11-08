@@ -13,4 +13,4 @@ This is a testing suite you can add to Rails with this [gem](https://github.com/
 1. [Here's an RSpec Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec) (Don’t write/type anything until you reach “Setting Up Rspec”, then code along)
 
 #### Some RSpec related tooling
-1. Using Factory Bot makes testing easier. [Here](https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot) and [here](https://medium.com/craft-academy/introduction-to-ruby-and-rspec-135da4051802) are a couple of Factory Bot tutorials.
+1. Using Factory Bot makes testing easier. [Here](https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorygirl) and [here](https://medium.com/@prstnj/factorybot-82da45c53a1) are a couple of Factory Bot tutorials.

@@ -1,5 +1,9 @@
 # Git
 
+## Basics
+* [Quick walkthrough](https://guides.github.com/activities/hello-world/)
+* [More in-depth interactive tutorial if you want to learn more!](https://learngitbranching.js.org/)
+
 ## Assessment
 * Why would I create a new branch?
 * What do I do if I commit some private credentials?
@@ -35,5 +39,5 @@
 1. Once your changes are approved, merge them into master
 
 # Other Resources
-[About Resolving Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
-[About Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [About Resolving Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
+- [About Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)

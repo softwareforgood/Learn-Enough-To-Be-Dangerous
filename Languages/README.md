@@ -20,4 +20,4 @@ Note!
   - Test for expected behavior
   - Test how common errors are handled
   - If you're awesome, when you see a bug, write a test that would protect against that bug, then write the code to pass the test.
-- Don't test other people's code. Open source libraries are well tested. Figure out where the library ends nad your code begins.
+- Don't test other people's code. Open source libraries are well tested. Figure out where the library ends and your code begins.

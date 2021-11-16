@@ -28,7 +28,7 @@ A language "optimized for developer happiness"
 
 ## Basic Ruby Tutorials
 *Go as deep into these tutorials as you find helpful*
-1. [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a general intro
+1. [The Languages official docs](https://www.ruby-lang.org/en/documentation/quickstart/) offer a general intro, and a quick tutorial that you can do [in your browser](https://try.ruby-lang.org/)
 1. A deeper dive into [Learning about Classes, variables, etc.](http://ruby-doc.com/docs/ProgrammingRuby/)
 1. If you want more repition in your practice, [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) offers good practice
 1. [Ruby Monk](https://rubymonk.com/) has longer, and more challenging tutorials and games

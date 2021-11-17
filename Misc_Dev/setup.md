@@ -114,10 +114,89 @@ New to programming on mac, don't worry we got you covered 🥳
   We are assuming that you already have a github account.  
 
   1. Generate a New Key
+
+     Open termianak and enter the following command :-
+
+     ```bash
+     $ ssh-keygen -t rsa -C "<your email"
+     ```
+
+     - Press Enter when prompted to enter a file, this will save the keys to the default location i.e. `~/ssh/id_rsa` 
+
+     - When prompted to enter a password, when you hit enter without typing anything that means `no password`. Which is okay.
+
+     - The output in the `Terminal` should look like this :- 
+
+       ```bash
+       Your identification has been saved in id_rsa.
+       Your public key has been saved in id_rsa.pub.
+       The key fingerprint is:
+       SHA256:C3AB8FF13720E8AD9047DD39466B3C8974E592C your@email_address.com
+       The key's randomart image is:
+       +---[RSA 2048]----+
+       | .       =   ..  |
+       |o . . o + = ..   |
+       | =.o o o o o  .  |
+       |+ +o. .  ..  . . |
+       |.+E  .  S   o o..|
+       |..     .  .o . .+|
+       |        o  oo .o+|
+       |       . o  ==o.=|
+       |        . .+=B=o |
+       +----[SHA256]-----+
+       ```
+
+       Awesome! You have your `private` and `public` keys saved 🎉
+
   2. Add the new key to your system
+
+     In your Terminal, run :-
+
+     ```bash
+     $ ssh-add ~/.ssh/id_rsa
+     ```
+
   3. Copy `public key` 
+
+     In your terminal run :-
+
+     Note: Never display show your `private key` to the public 🛑
+
+     ```bash
+     $ pbcopy < ~/.ssh/id_rsa.pub
+     ```
+
   4. Add key to Github
+
+     - Visit [Github Key Settings](https://github.com/settings/keys)
+     - Click on `New SSH key`
+     - Paste the key copied in part 3 above (`command + v`) in the `key` section
+     - You can choose to add a title or not, based on your preference.
+     - Click on `Add SSH key` to save your key to Github
+
   5. Verify if the configuration worked.
+
+     - In your terminal run :-
+
+       ```bash
+       $ ssh -T git@github.com
+       ```
+
+     - You will get this prompt,
+
+       ```bash
+       The authenticity of host 'github.com (192.30.252.153)'... can't be established.
+       RSA key fingerprint is 00:11:22:33:44:55:66:77:88:99:aa:bb:cc:dd:ee:ff.
+       Are you sure you want to continue connecting (yes/no)?
+       ```
+
+       Type `yes`
+
+     - If successfull, yoy will see :-
+
+       ```bash
+       Hi <your_github_username>! You've successfully authenticated, but GitHub does not provide shell access.
+       ```
 
 - Install rbenv
 

@@ -3,7 +3,7 @@
 ### Mac
 New to programming on mac, don't worry we got you covered 🥳
 
-- Install xcode-select  
+- **Install xcode-select**  
 
   To install `xcode-select` follow the following steps :-  
 
@@ -35,7 +35,7 @@ New to programming on mac, don't worry we got you covered 🥳
       .
       ```
 
-- Install Homebrew
+- **Install Homebrew**
 
   1. Open `Terminal` 
 
@@ -52,7 +52,7 @@ New to programming on mac, don't worry we got you covered 🥳
      Your system is ready to brew
      ```
 
-- Install Git
+- **Install Git**
 
   1. Open `Terminal` and type :-
 
@@ -82,7 +82,7 @@ New to programming on mac, don't worry we got you covered 🥳
      
      ```
 
-- Configure Git
+- **Configure Git**
 
   1. Open `Terminal` 
 
@@ -109,7 +109,7 @@ New to programming on mac, don't worry we got you covered 🥳
      pull.rebase=false
      ```
 
-- Add Github SSH 
+- **Add Github SSH** 
 
   We are assuming that you already have a github account.  
 
@@ -198,14 +198,30 @@ New to programming on mac, don't worry we got you covered 🥳
        Hi <your_github_username>! You've successfully authenticated, but GitHub does not provide shell access.
        ```
 
-- Install rbenv
+- **Install rbenv**
 
-- Install NVM
+  To install rbenv on your computer click this link and follow the prompts [Here](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-macos)
 
-- Install PostgresQL
+  Note:
+
+  - Newer MacBooks uses `zsh` not `bash` for shell. 
+  - In the link they use `.bash_profile` replace that with `.zshrc` 
+
+- **Install NVM**
+
+  To install nvm on your mac, click the link and follow from step 1 - 3 [Here](https://tecadmin.net/install-nvm-macos-with-homebrew/)
+
+  Note:
+
+  - Newer MacBooks uses `zsh` not `bash` for shell. 
+  - In the link they use `.bash_profile` replace that with `.zshrc`
+
+- **Install PostgreSQL**
+
+  To install postgresql with home brew use click on the link [Here](https://wiki.postgresql.org/wiki/Homebrew)
 
 ## Installations For Productivity
 
-- [Rectangle](https://rectangleapp.com)
-- [Caffeine](https://www.macupdate.com/app/mac/24120/caffeine) (free) can also download Caffeinated on AppStore for a charge.
+- [Rectangle](https://rectangleapp.com) -> Screen Management
+- [Caffeine](https://www.macupdate.com/app/mac/24120/caffeine) (free) can also download Caffeinated on AppStore for a charge. -> Keeps your system running.
 

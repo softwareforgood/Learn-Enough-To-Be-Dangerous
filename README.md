@@ -17,4 +17,4 @@ And have fun!
 - [Command Line:](Misc_Dev/CommandLine.md) contains info explaining the command line, it's purpose, and useful commands you can use on the command line
 - [Editors:](Misc_Dev/Editors.md) applications that help programmers write their code
 - [Redux:](Frameworks_and_Libraries/Redux.md) an open-source JavaScript library
-- [Work Management Software:](Client_Services/README.md) tools that companies use to organize their goals and plans for projects
+- [Project Management Software:](Client_Services/README.md) tools that companies use to organize their goals and plans for projects

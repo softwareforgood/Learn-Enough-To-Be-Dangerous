@@ -2,7 +2,7 @@
 
 The internet couldn't function without it.
 
-The [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) is a great tutorial to follow to familiarize yourself with this language.
+The [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics) is a great tutorial to familiarize yourself with this language.
 
 ## Key points
 

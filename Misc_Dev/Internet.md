@@ -1,6 +1,6 @@
 # Internet
 
-[How does the web work?](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work) Learn the foundations of the Internet.
+[How does the web work?](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work#assignment) Learn the foundations of the Internet
 
 ## Assessment Questions
 

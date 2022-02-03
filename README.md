@@ -9,3 +9,12 @@ And have fun!
 1. Language of your project ([Ruby](Languages/Ruby.md), [JavaScript](Languages/JavaScript.md))
 1. Framework for your project ([(Ruby on) Rails](Frameworks_and_Libraries/Rails.md), [Reactjs (technically not a framework)](Frameworks_and_Libraries/Reactjs.md))
 1. Testing your code — [Ruby on Rails](Testing/Rails.md), [JavaScript/ReactJS](Testing/JavaScript.md)
+
+# Additional Resources
+- [Front-End:](Misc_Dev/Frontend.md) the part of the web application that the user will see and interact with, built mainly with HTML, CSS, and JavaScript
+- [Databases:](Misc_Dev/Databases.md) where applications can store their data
+- [Internet:](Misc_Dev/Internet.md) contains info that explains how the internet works
+- [Command Line:](Misc_Dev/CommandLine.md) contains info explaining the command line, it's purpose, and useful commands you can use on the command line
+- [Editors:](Misc_Dev/Editors.md) applications that help programmers write their code
+- [Redux:](Frameworks_and_Libraries/Redux.md) an open-source JavaScript library
+- [Work Management Software:](Client_Services/README.md) tools that companies use to organize their goals and plans for projects

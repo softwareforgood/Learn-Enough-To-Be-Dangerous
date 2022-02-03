@@ -1,6 +1,6 @@
-# Git
-
+# Git and GitHub
 ## Basics
+Go ahead and use these resources. Additional resources are down below. Those are optional, but recommended. Make sure you are able to answer the questions in the Assessment section.
 * [Quick walkthrough](https://guides.github.com/activities/hello-world/)
 * [More in-depth interactive tutorial if you want to learn more!](https://learngitbranching.js.org/)
 
@@ -8,6 +8,28 @@
 * Why would I create a new branch?
 * What do I do if I commit some private credentials?
 * What happens if I type ‘git branch -D make-it-happen’ into the command line?
+  
+## Git
+- Software that helps keep track of changes within any set of files
+- We can use git be executing it's specific commands in a terminal 
+```
+git <command> <arguments if needed>
+```
+
+## GitHub
+- A website that helps programmers create and collaborate on projects
+- Contains many features dedicated to help programmers collaborate
+  
+Programmers are able to create repositories on GitHub, which is like a folder that will contain all the files and code for a project.
+- Remote Repository: repositories stored on the internet or network
+- Local Repository: repositories stored on your local computer
+  
+### How are Git and GitHub connected?
+GitHub uses Git and it's commands to do many important things related to working on a project together. These things include:
+- Cloning a remote repository on GitHub onto your local computer
+- Pulling updates of the remote repository onto your local computer
+- Pushing updates of your local repository to the remote repository
+- Creating new branches
 
 ## Git Workflow
 1. `git checkout -b [branch-name]`
@@ -15,7 +37,7 @@
 1. `git status` (double check what's changed before adding changes to stage)
 1. `git add [changed files]`
 1. `git status` (double check what's staged before committing)
-1. `git commit` just this file with a helpful message about what was changed `-m 'message'`
+1. `git commit -m 'message'` (add a helpful message about what was changed, so that others can understand what you did)
 
 ## Pull Request Workflow
 1. `git checkout master`
@@ -41,3 +63,4 @@
 # Other Resources
 - [About Resolving Merge Conflicts](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/)
 - [About Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [Git Commands Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)

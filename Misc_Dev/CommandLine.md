@@ -12,7 +12,7 @@ Another name for the command line is the terminal. Depending on your operating s
 ## Commands
 When in a terminal/command line, we are able to execute commands. Commands are used to execute a specific action, whether it be for navigating, creating, deleting, or seeing what's in a folder.
   
-Before we get into commands, you have to understand one simple thing: the location of a file or folder can be typed by using the folder names and '/'. For instance, here is the route to get to a file *example.txt* that is within a folder *examples*
+Before we get into commands, you have to understand one simple thing: the location of a file or folder can be typed by using the folder names and '/'. For instance, here is the path to get to a file *example.txt* that is within a folder *examples*
 ```
 examples/example.txt
 ```

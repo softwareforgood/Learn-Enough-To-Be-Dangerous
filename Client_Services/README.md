@@ -22,7 +22,7 @@ We are able to create these things called tasks (also called tickets), which hel
 - Attaching files
 - A section at the bottom where you can message and communicate with other team members
   
-Every Asana Task has "Acceptance Criteria". Don't mark it as complete until they are met. If you don't know what those criteria are, ask. The button to mark complete is called *Mark complete*, however, a programmer shouldn't be the one to click this button. 
+Every Asana Task has "Acceptance Criteria". Don't mark it as complete until they are met. If you don't know what those criteria are, ask. The button to mark complete is called *Mark complete*, however, we (typically the product owner/project manager/tech lead) need to communicate with the client to determine if we can push this button. 
   
 Besides mentioned above, the importance of tasks are categorized by high, medium, and low priority. **High priority tasks should ideally be completed first.**
   
@@ -36,4 +36,4 @@ Buckets are how we organize tickets that are in different stages of development.
 ### **Connection between Tasks and Buckets**
 For this example, we are going to be using the buckets that were mentioned above.
   
-Let's say you were assigned a task that was currently in the *Backlog* bucket, and you decided to work on it. Then, you are able to drag that task from the *Backlog* bucket into the *In Progress* bucket. This helps indicate to the rest of the team members that you are currently working on that task.
+Let's say you were assigned a task that was in the *Backlog* bucket, and you are starting to work on it. Then, you are able to drag that task from the *Backlog* bucket into the *In Progress* bucket. This helps indicate to the rest of the team members that you are currently working on that task.

@@ -11,7 +11,7 @@ Go ahead and use these resources. Additional resources are down below. Those are
   
 ## Git
 - Software that helps keep track of changes within any set of files
-- We can use git be executing it's specific commands in a terminal 
+- We can use git by executing it's specific commands in a terminal 
 ```
 git <command> <arguments if needed>
 ```
@@ -25,7 +25,7 @@ Programmers are able to create repositories on GitHub, which is like a folder th
 - Local Repository: repositories stored on your local computer
   
 ### How are Git and GitHub connected?
-GitHub uses Git and it's commands to do many important things related to working on a project together. These things include:
+GitHub uses Git and its commands to do many important things related to working on a project together. These things include:
 - Cloning a remote repository on GitHub onto your local computer
 - Pulling updates of the remote repository onto your local computer
 - Pushing updates of your local repository to the remote repository

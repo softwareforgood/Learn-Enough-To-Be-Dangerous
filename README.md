@@ -4,13 +4,14 @@ The goal of each of these modules is to give you enough of a foundation for you 
 And have fun!
 
 # Stuff you need to learn (in order)
-1. [Git](Misc_Dev/GitAndGitHub.md)
+1. [Git and GitHub](Misc_Dev/GitAndGitHub.md)
 1. General points about [programming languages](Languages/README.md)
 1. Language of your project ([Ruby](Languages/Ruby.md), [JavaScript](Languages/JavaScript.md))
 1. Framework for your project ([(Ruby on) Rails](Frameworks_and_Libraries/Rails.md), [Reactjs (technically not a framework)](Frameworks_and_Libraries/Reactjs.md))
 1. Testing your code — [Ruby on Rails](Testing/Rails.md), [JavaScript/ReactJS](Testing/JavaScript.md)
 
 # Additional Resources
+If you feel you are lacking knowledge in any of these topics, feel free to read these.
 - [Front-End:](Misc_Dev/Frontend.md) the part of the web application that the user will see and interact with, built mainly with HTML, CSS, and JavaScript
 - [Databases:](Misc_Dev/Databases.md) where applications can store their data
 - [Internet:](Misc_Dev/Internet.md) contains info that explains how the internet works

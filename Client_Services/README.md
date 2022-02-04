@@ -4,7 +4,7 @@ All your expectations during this apprenticeship are best understood in the cont
   
 **Clients**
   
-Clients are the people (i.e. company) that we are developing the code for. Therefore, the client determines what tasks we do and approve of our work for a task. **A task isn't complete until the client says so.**
+The clients are the people we are developing the app for. We work with clients to make sure the app we’re developing meets their needs and goals. How we work with them varies by client - sometimes they define and prioritize our tasks, and sometimes they are more hands off.
 
 # Asana
 Asana is a project management software. Project management software are tools that can be used by companies to help organize and plan their projects. There are many other types of project management software out there. Besides Asana, these include:

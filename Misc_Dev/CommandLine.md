@@ -20,27 +20,27 @@ examples/example.txt
 Now, here are some common commands:
   
 `cd <file route>` 
-- this allows us to change folder location in the terminal.
+- This allows us to change folder location in the terminal.
 - cd stands for *change directory*. Directory is another word we use for a folder.
 - The route passed in depends on your current location in the folders.
-- `cd ~` brings you back to the home directory
+- `cd ~` brings you back to the home directory.
 - `cd ..` moves you 1 directory up. It's how you go backwards.
 
 `ls`
-- this allows you to see what files and folders are within a folder.
-- it is useful when you need to get into a folder, but you forgot it's name or something similar.
+- This allows you to see what files and folders are within a folder.
+- It is useful when you need to get into a folder, but you forgot it's name or something similar.
   
 `touch <file name>`
-- this allows us to create a file along with it's extension (i.e. .js, .rb, .jpeg)
-- this file will be created based on your location in the folders
+- This allows us to create a file along with it's extension (i.e. .js, .rb, .jpeg).
+- This file will be created based on your location in the folders.
 
 `mkdir <folder name>`
-- this allows us to create a folder/directory
-- mkdir stands for *make directory*
+- This allows us to create a folder/directory.
+- mkdir stands for *make directory*.
   
 `rm <file or folder name>`
-- this deletes a file or folder
-- be careful when using this command
+- This deletes a file or folder.
+- Be careful when using this command.
   
 There are many more commands: [Click here](https://www.git-tower.com/blog/command-line-cheat-sheet/) if you want to see a cheat sheet of them.
 

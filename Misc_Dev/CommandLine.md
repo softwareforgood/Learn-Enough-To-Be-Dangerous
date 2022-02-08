@@ -1,5 +1,5 @@
 # Using the Command Line / Terminals
-* Read this article for a more in-depth understanding: [Command Line Introduction](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#welcome_to_the_terminal)
+**Read this article for a more in-depth understanding: [Command Line Introduction](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#welcome_to_the_terminal)**
 
 Very often, you'll see programmers using the command line to run programs and/or execute different actions on their computers. One common use of the command line is to navigate the files and folders of a computer without the use of the graphical user interface.
 - Graphical User Interface (GUI) - a way to interact with the computer by physically seeing the files and folders (i.e. image of a folder)

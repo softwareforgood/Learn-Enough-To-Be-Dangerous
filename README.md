@@ -17,10 +17,10 @@ Everyone approaches learning differently. Some enjoy reading up on concepts, oth
 
 # Additional Resources
 If you feel you are lacking knowledge in any of these topics, feel free to read these.
-- [Front-End:](Misc_Dev/Frontend.md) the part of the web application that the user will see and interact with, built mainly with HTML, CSS, and JavaScript
-- [Databases:](Misc_Dev/Databases.md) where applications can store their data
-- [Internet:](Misc_Dev/Internet.md) contains info that explains how the internet works
-- [Command Line:](Misc_Dev/CommandLine.md) contains info explaining the command line, it's purpose, and useful commands you can use on the command line
-- [Editors:](Misc_Dev/Editors.md) applications that help programmers write their code
-- [Redux:](Frameworks_and_Libraries/Redux.md) an open-source JavaScript library
-- [Project Management Software:](Client_Services/README.md) tools that companies use to organize their goals and plans for projects
+- [Front-End](Misc_Dev/Frontend.md): the part of the web application that the user will see and interact with, built mainly with HTML, CSS, and JavaScript
+- [Databases](Misc_Dev/Databases.md): where applications can store their data
+- [Internet](Misc_Dev/Internet.md): contains info that explains how the internet works
+- [Command Line](Misc_Dev/CommandLine.md): contains info explaining the command line, it's purpose, and useful commands you can use on the command line
+- [Editors](Misc_Dev/Editors.md): applications that help programmers write their code
+- [Redux](Frameworks_and_Libraries/Redux.md): an open-source JavaScript library
+- [Project Management Software](Client_Services/README.md): tools that companies use to organize their goals and plans for projects

@@ -42,25 +42,28 @@ GitHub uses Git and its commands to do many important things related to working 
 
 ## Pull Request Workflow
 
-1. `git checkout master`
+1. `git checkout main`
 1. `git pull`
 1. `git checkout -b branch-name`
 1. When naming your branches, follow SfG convention that the branch consists of ...
 1. fix/more-specific-branch-name
 1. chore/more-specific-branch-name
-1. bug/more-specific-branch-name
+1. feature/more-specific-branch-name
 1. Make a bunch of changes to the code
 1. `git add [files worth saving]`
 1. `git commit -m 'a helpful message'`
-1. `git checkout master && git pull` (in case anyone else merged changes in the meantime)
+1. `git checkout main && git pull` (in case anyone else merged changes in the meantime)
 1. `git checkout branch-name`
-1. if new changes came down when you ran `git pull` on master
-1. `git merge master`
+1. if new changes came down when you ran `git pull` on main
+1. `git merge main`
 1. resolve conflicts and then `commit` changes with conflicts resolved
 1. `git push [--set-upstream origin branch-name]`
 1. Go to GitHub, open a pull request, double check your code for errors, and ask others to review your PR
 1. Resolve all comments from review
-1. Once your changes are approved, merge them into master
+1. Once your changes are approved, merge them into main
+
+## Other Notes
+You may see the primary or default branch on a Git repository referred to as `master` instead of `main`. In the past, many default branches on GitHub were named `master`, but recently, there has been an effort to use more neutral/inclusive language and move away from the use of `master`. Most of the repositories at SfG have been reconfigured to use `main` instead, but there may be some older repositories or repositories from other organizations have not been updated to use the new naming conventions, likely due to time constraints and/or limitations related to how the application is set up.
 
 # Other Resources
 

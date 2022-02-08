@@ -1,6 +1,6 @@
 # Git and GitHub
 ## Basics
-Go ahead and use these resources. Additional resources are down below. Those are optional, but recommended. Make sure you are able to answer the questions in the Assessment section.
+These are some basic resources, but there are additional ones at the bottom of this page. Those are optional, but recommended. Make sure you are able to answer the questions in the Assessment section.
 * [Quick walkthrough](https://guides.github.com/activities/hello-world/)
 * [More in-depth interactive tutorial if you want to learn more!](https://learngitbranching.js.org/)
 
@@ -26,9 +26,9 @@ Programmers are able to create repositories on GitHub, which is like a folder th
   
 ### How are Git and GitHub connected?
 GitHub uses Git and its commands to do many important things related to working on a project together. These things include:
-- Cloning a remote repository on GitHub onto your local computer
-- Pulling updates of the remote repository onto your local computer
-- Pushing updates of your local repository to the remote repository
+- Cloning a remote repository from GitHub onto your local computer
+- Pulling updates from the remote repository onto your local computer
+- Pushing updates from your local repository to the remote repository
 - Creating new branches
 
 ## Git Workflow

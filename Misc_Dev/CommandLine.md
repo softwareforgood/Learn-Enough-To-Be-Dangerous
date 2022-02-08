@@ -1,16 +1,19 @@
-# Command Line
-* Read this article for a more in-depth understanding: [Command Line Introduction](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
-  
-One of the main purposes of the command line is to navigate the files and folders of a computer without the use of the graphical user interface.
+# Using the Command Line / Terminals
+* Read this article for a more in-depth understanding: [Command Line Introduction](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#welcome_to_the_terminal)
+
+Very often, you'll see programmers using the command line to run programs and/or execute different actions on their computers. One common use of the command line is to navigate the files and folders of a computer without the use of the graphical user interface.
 - Graphical User Interface (GUI) - a way to interact with the computer by physically seeing the files and folders (i.e. image of a folder)
   
-With the command line, we don't physically see images of the files and folders. The only thing we get is text.
+With the command line, we don't exactly get to see images of the files and folders. The only thing we get is text.
 
-## Terminal
-Another name for the command line is the terminal. Depending on your operating system, the terminals that are available differs. Each have their pros and cons, and you should research more into them to better understand each one.
+## Command Line vs. Terminal
+You will likely hear folks refer to a "terminal" in addition to the command line. The article provided above has a pretty good explanation of the differences between the two (just search for 'Side Note: what's the difference between a command line and a terminal?' and it should lead you to that section) — but the terminal is essentially the window that the command line sits inside of.
+
+## Terminals in Different Operating Systems
+See [this](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#how_do_you_access_the_terminal) section of the article for more information on how to open up terminals in different systems. Linux/Unix and MacOS systems tend to be easier to work with, but it is possible to get things up and running on Windows machines.
 
 ## Commands
-When in a terminal/command line, we are able to execute commands. Commands are used to execute a specific action, whether it be for navigating, creating, deleting, or seeing what's in a folder.
+When in a terminal, we are able to execute commands. Commands are used to execute a specific action, whether it be for navigating, creating, deleting, or seeing what's in a folder.
   
 Before we get into commands, you have to understand one simple thing: the location of a file or folder can be typed by using the folder names and '/'. For instance, here is the path to get to a file *example.txt* that is within a folder *examples*
 ```
@@ -43,23 +46,3 @@ Now, here are some common commands:
 - Be careful when using this command.
   
 There are many more commands: [Click here](https://www.git-tower.com/blog/command-line-cheat-sheet/) if you want to see a cheat sheet of them.
-
-# Terminals Types
-There are various terminals and they go by so many names. Here are some names that the terminal can be called:
-- terminal
-- command line
-- command line interface
-- shell
-- prompt
-- console
-  
-## Terminals for Mac, Linux, and PC (Windows)
-### Mac
-- macOS
-
-### Linux
-- Ubuntu
-
-### PC
-- Powershell
-- Command Prompt

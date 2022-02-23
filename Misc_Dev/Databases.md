@@ -30,6 +30,13 @@ Popular non-relational databases include:
 - [Cassandra](https://cassandra.apache.org/) - column-based database
 - [Neo4J](https://neo4j.com/) - a graph database
 
+### Which type of database do I use?
+This question has no simple answer. But here are some aspects to consider when making a decision:
+- Language: Relational databases almost always speak SQL where as NoSQL does not. 
+- Scalability: NoSQL is typically better suited for large datasets and analyics. SQL databases typically vertically scale meaning that the load is all on one server. NoSQL databases are horizontally salable meaning that you can add more servers by sharding or breaking apart the data.
+- Schema design: NoSQL databases have a flexible schema where as SQL databases have a schema which is defined and more difficult to change. SQL's schema allows for multi-row transactions.
+- Community: There are different communities around SQL and NoSQL because SQL has existed for so much longer. There are also communities around specific tools and the difference between proprietary products versus open-source products that one might want to consider.
+
 ## Assessment Questions
 
 1. What is SQL?

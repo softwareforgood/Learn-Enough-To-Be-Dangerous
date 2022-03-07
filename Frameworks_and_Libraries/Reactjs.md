@@ -1,5 +1,7 @@
 # Learn Reactjs
-A JavaScript library for building user interface
+A JavaScript library for building user interfaces.
+
+Main Docs: [reactjs.org/docs](https://reactjs.org/docs/getting-started.html)
 
 ## Background
 - Built in JavaScript. Nobody knows what that is.
@@ -15,9 +17,8 @@ A JavaScript library for building user interface
 ## Key points
 - Reactjs is a JavaScript library
 - Uses [JSX](http://buildwithreact.com/tutorial/jsx) (JavaScript syntax extension)
+- Introductory [tutorial](https://reactjs.org/tutorial/tutorial.html) building a tic-tac-toe game
+- Codeacademy [course](https://www.codecademy.com/learn/react-101)
 
 ## Debugging
 - Install [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) into your Chrome browser
-
-
-- Read through the Quick Start section

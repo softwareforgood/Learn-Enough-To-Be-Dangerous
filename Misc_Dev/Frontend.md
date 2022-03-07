@@ -12,6 +12,25 @@ Tutorials: [HTML Foundations](https://www.theodinproject.com/paths/foundations/c
   - [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is not official documentation for Flexbox, but super helpful when you're starting out.
   - [Flexbox Froggy](http://flexboxfroggy.com/) is a fun game to help you learn Flexbox
 
+
+# Toolkits
+In some cases it can be helpful to have a starting point for the styling of components in a site. There are [myriad of frameworks and toolkits](https://classpert.com/blog/top-bootstrap-alternatives) out there, but here are just a few:
+
+## Bootstrap
+[Bootstrap](https://getbootstrap.com/) is an open source front-end toolkit that provides:
+- Sass variables and mixins
+- responsive grid system
+- extensive prebuilt components
+- powerful Javascript plugins
+
+## Tailwind
+[Tailwind](https://tailwindcss.com/) is a CSS framework that provides extensive utility classes. It is 
+- constraint-based
+- light-weight
+- responsive
+- component-driven
+- customizable
+
 # Chrome Dev Tools
 
 ## Exercises

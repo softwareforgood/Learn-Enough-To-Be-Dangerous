@@ -9,6 +9,8 @@ And have fun!
 Everyone approaches learning differently. Some enjoy reading up on concepts, others may like to watch videos, and others learn by doing. There is no right or wrong way to learn, just find what works best for you and repeat that process. Some advice would be to grasp the fundamentals of programming(if you haven't already) then apply those concepts by building a project, it could be something small like a To-Do list. The fundamentals of programming are used in every application despite the language it was built in. So when it's time to learn a new language Google is your best friend! Another thing is to reach out to your peers and keep in mind that everyone wants to see you grow. Happy Coding!
 
 # Stuff you need to learn (in order)
+
+1. [Computer Setup](Misc_Dev/setup.md)
 1. [Git and GitHub](Misc_Dev/GitAndGitHub.md)
 1. General points about [programming languages](Languages/README.md)
 1. Language of your project ([Ruby](Languages/Ruby.md), [JavaScript](Languages/JavaScript.md))

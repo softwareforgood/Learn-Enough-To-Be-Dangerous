@@ -1,5 +1,5 @@
 # Editors
-Use whatever works for you.
+Editors are where we write code. There are various types of editors out there. It isn't extremely important which type of editor you use, so use whatever works for you.
 
 ## Integrated Development Environments
 RubyMine, IntelliJ, Eclipse

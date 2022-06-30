@@ -206,6 +206,41 @@ New to programming on mac, don't worry we got you covered 🥳
 
   - Newer MacBooks uses `zsh` not `bash` for shell. 
   - In the link they use `.bash_profile` replace that with `.zshrc` 
+  
+***M1 Chip Note:***
+
+Both RVM and Rbenv seem to have some installation issues on M1(ARM) chips out of the box. There might be some work around for both of the managers.
+
+The best bet is to go with `chruby` or `frum` . Frum is fast but might have some issues, therefore I recommend `chruby` for now until `rvm` and `rbenv` 
+issues are resolved for ARM chips. 
+
+Check your `~/bundle/config` for `BUNDLE_FORCE_RUBY_PLATFORM`. This will force bundler to ignore ARM64 builds, so delete it if present.
+  
+- **[Install Chruby](https://github.com/postmodern/chruby)**
+  - `brew install chruby`
+  - `brew install ruby-install`
+  - Add this script to `.zshrc` file.
+    ```bash
+      export HOMEBREW_PREFIX="$(brew --prefix)"
+  
+      if [[ -r "$HOMEBREW_PREFIX/opt/chruby/share/chruby/chruby.sh" ]]; then
+        source "$HOMEBREW_PREFIX/opt/chruby/share/chruby/chruby.sh"
+        source "$HOMEBREW_PREFIX/opt/chruby/share/chruby/auto.sh"
+      fi
+    ```
+  - `ruby-install ruby 3.1.2`
+  - restart the terminal
+  - `chruby` should return 3.1.2
+  
+
+- **[Install Frum](https://github.com/TaKO8Ki/frum)**
+
+  Frum works almost like `rbenv`.
+
+  - `brew install frum`
+  - `frum install 3.1.2`
+  - `frum local 3.1.2`
+
 
 - **Install NVM**
 
